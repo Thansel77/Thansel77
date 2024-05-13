@@ -1,7 +1,7 @@
 # Contact Information
-**Karl Larson _yeah baby_**<br/>
-*klarson@larsonipl.com*<br/>
-972-740-4582
+**Thomas Hansel**<br/>
+*hanselthomas77@gmail.com*<br/>
+423-779-2065
 # Technologies
 - [Java](https://docs.oracle.com/en/java/)
 - Javascript
