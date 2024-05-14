@@ -15,12 +15,11 @@
 * Rope Access
   * 08/2023 - Present
 
-  # Table
-Color | RGB | Comment
-------|-----|--------
-red | 0xff0000 | don't like it
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+ # Skills
+ - Attention to detail
+ - Creativity
+ - Time Management
+   
 
 #### 
 
