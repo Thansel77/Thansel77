@@ -1,7 +1,7 @@
 # Contact Information
 **Thomas Hansel**<br/>
 *hanselthomas77@gmail.com*<br/>
-**Chattanooga, TN
+**Chattanooga, TN**
 423-779-2065
 # Experience
 - HTML and CSS
