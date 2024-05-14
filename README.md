@@ -1,6 +1,6 @@
 # Contact Information
 ** Thomas Hansel**<br/>
-* hanselthomas77@gmail.com*<br/>
+* hanselthomas77@gmail.com *<br/>
 ** Chattanooga, TN
 423-779-2065
 # Experience
