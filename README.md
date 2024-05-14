@@ -27,7 +27,7 @@ green | 0x0000ff | my color
 - 🌱 I’m currently training on [GitHub Course][website]
 
 ### connect with me.
-[<img alt="Karl Larson" width="40px" src="https://user-images.githubusercontent.com/35807054/118406518-e8374d80-b641-11eb-82ac-dd6b3ceca506.jpg" />][website]
+https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/405466880_405687558497503_2807906200410739878_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5v2UxV76IC4Q7kNvgHRtnuU&_nc_ht=scontent-atl3-1.xx&oh=00_AYByVLAr9aXjVicp6hIp0IwBhau6e3D_ea09KQ-PrWwJGA&oe=66488938
 <!---
 karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
